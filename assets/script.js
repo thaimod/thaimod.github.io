@@ -127,4 +127,4 @@ function shareOnTwitter(event, url, alt) {
 var modCount = document.querySelectorAll('.mod-container').length;
 
 // Update the HTML element with the count
-document.getElementById('mod-count').textContent = "คลิกขวาเพื่อแชร์ลิงก์ม็อด (ม็อดทั้งหมด: " + modCount + " ม็อด)";
+document.getElementById('mod-count').textContent = "คลิกขวาเพื่อแชร์ลิงก์ม็อด (ม็อดทั้งหมด: " + modCount + " รายการ)";
